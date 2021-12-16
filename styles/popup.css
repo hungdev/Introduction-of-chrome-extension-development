@@ -1,0 +1,16 @@
+body {
+	width: 300px;
+	height: 100px;
+	/* background-color: #e9ebee; */
+	/* padding: 20px */
+	/* background-image: url("images/bg.svg"); */
+	/* background-size: cover; */
+}
+.header {
+	margin: 20px 20px 0px
+}
+
+#change-options {
+  margin: 20px 20px 0px;
+  cursor: pointer;
+}
